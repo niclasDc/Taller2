@@ -4,7 +4,7 @@ Repositorio para la base de datos de control de citas médicas en PostgreSQL la
 cuál contiene:
  - **Base_de_Datos_Citas_Medicas.pdf**: Documento sobre la base de datos del ejercicio 1
  - **dbcistasmedicas.sql**: Backup de la base de datos del ejercicio 1.
- - **queries.sql**: Queries correspondientes a la parte B del ejercicio 1.
+ - **ejercicio1_parteb.sql**: Queries correspondientes a la parte B del ejercicio 1.
  - **ejercicio2.ipynb**: Notebook de jupyter con las queries aplicadas a la base de datos de Wikipedia del ejercicio 2.
 
 ## Instalación
