@@ -2,9 +2,9 @@
 ##### Nicolas Alvarez Triana, Pablo Gonzalez Baron, Eduards Alexis Mendez, David Felipe Mora
 Repositorio para la base de datos de control de citas médicas en PostgreSQL la
 cuál contiene:
- - Base_de_Datos_Citas_Medicas.pdf: Breve introducción de la base de datos.
- - dbcistasmedicas.sql: Backup de la base de datos.
- - Query.sql: Algunas Querys que se pueden realizar en la base de datos.
+ - Base_de_Datos_Citas_Medicas.pdf: Documento sobre la base de datos del ejercicio 1
+ - dbcistasmedicas.sql: Backup de la base de datos del ejercicio 1.
+ - queries.sql: Queries correspondientes a la parte B del ejercicio 1.
 
 ## Instalación
  1. Crear en pgAdmin 4 una database con nombre "dbcitasmedicas".
