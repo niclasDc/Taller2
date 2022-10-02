@@ -1,4 +1,5 @@
-# BD Citas Médicas
+# Análisis de Bases de Datos - Taller 2
+##### Nicolas Alvarez Triana, Pablo Gonzalez Baron, Eduards Alexis Mendez, David Felipe Mora
 Repositorio para la base de datos de control de citas médicas en PostgreSQL la
 cuál contiene:
  - Base_de_Datos_Citas_Medicas.pdf: Breve introducción de la base de datos.
