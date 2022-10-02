@@ -11,6 +11,3 @@ cuál contiene:
  2. Copiar el archivo dbcitasmedicas.sql en la carpeta de PostgreSQL/14/bin
  Nota: Esta carpeta está en Archivos de programas o Progam files.
  3. Seguir las indicaciones del siguiente video a partir del minuto 5: https://bit.ly/3dWjkyn
-
-## Autores
-Nicolás Álvarez Triana
